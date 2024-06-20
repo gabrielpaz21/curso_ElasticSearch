@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Clase16Elastic" />
+        <module name="Clase15Elastic" />
+        <module name="Clase16Elastic (1)" />
+        <module name="Clase12Elastic" />
+        <module name="SpringDataElasticsearch" />
+        <module name="Clase11Elastic" />
+        <module name="Clase13Elastic" />
+        <module name="Clase10Elastic" />
+        <module name="Clase14Elastic" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Clase12Elastic" options="-parameters" />
+    </option>
+  </component>
+</project>

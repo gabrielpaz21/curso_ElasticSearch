@@ -27,3 +27,9 @@ w
 G.idea/sonarlint/issuestore/9/6/963c2a1477064876af42db65ea6f0d41436a9b25,b\9\b96fa009a3f5f51bc025d2bb1ad43defec34ef3b
 Å
 Q.idea/sonarlint/securityhotspotstore/2/5/25600ec3270e78754fbd59889538cc6d8a02aedd,9\5\9557843cf65296c11924ca42e919bbdbe4217f81
+D
+Clase2/Consultas.txt,d\8\d85c984bbdb53d50ae281120efa0eae3ed247759
+B
+challege graph.txt,d\1\d1bbe68c7d43b2df41ea917a95c6c8c35a718b23
+C
+graphChallenge.java,f\0\f0735393c11c056b350a41736f80e79fbd418de6
